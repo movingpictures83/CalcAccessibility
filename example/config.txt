@@ -1,0 +1,2 @@
+Prefix plugins/CalcAccessibility/example/
+Plugin CalcAccessibility inputfile parameters.calcaccess.txt outputfile none

@@ -1,0 +1,2 @@
+pdbfile	1.pdb
+cutoff	20
