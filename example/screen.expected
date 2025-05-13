@@ -23,9 +23,3 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: CalcAccessibility
-10/10/2024 11:07:47 L157 INFO - Calculate accessibility...
-c10/10/2024 11:07:47 L228 INFO - Chain: E - 313 residues
-10/10/2024 11:07:47 L228 INFO - Chain: F - 295 residues
-10/10/2024 11:07:47 L234 INFO - Applying cutoff to side_chain_rel - 20.0
-10/10/2024 11:07:47 L244 INFO - Chain E -
-10/10/2024 11:07:47 L244 INFO - Chain F -
